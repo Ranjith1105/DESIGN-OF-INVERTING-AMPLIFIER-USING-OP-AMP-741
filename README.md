@@ -3,7 +3,8 @@
 To design and construct a inverting, non- inverting and differential amplifiers.
 
 # APPARATUS REQUIRED:
-<img width="601" height="168" alt="image" src="https://github.com/user-attachments/assets/83cc69be-2a25-4165-9a7f-61b195012bd4" />
+<img width="944" height="253" alt="image" src="https://github.com/user-attachments/assets/75606ec6-5b9a-4a89-a137-c0ab7d2100ff" />
+
 
 # THEORY:
 Op-amp in open-loop configuration has a very few application because of its enormous open- loop gain. Controlled gain can be can be achieved by taking a part of output signal to the input with the help of feedback. This is called as Closed- Loop Configuration. The three basic types of closed-loop amplifier configuration are:
