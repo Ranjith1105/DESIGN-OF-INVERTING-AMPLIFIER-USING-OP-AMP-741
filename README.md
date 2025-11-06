@@ -64,3 +64,4 @@ AV=Vd/V2-V1=-Rf/Ri
 # THEORETICAL CALCULATION:
 
 # RESULT:
+thus the result is obtained
