@@ -44,12 +44,11 @@ AV=Vd/V2-V1=-Rf/Ri
 # MODEL GRAPH:
 <img width="450" height="228" alt="image" src="https://github.com/user-attachments/assets/235f4402-0bee-42b7-80de-38055bb37b2c" />
 
-# CIRCUIT DIAGRAM:
-# NON-INVERTING AMPLIFIER:
+# CIRCUIT DIAGRAM: NON-INVERTING AMPLIFIER:
 <img width="451" height="254" alt="image" src="https://github.com/user-attachments/assets/a13892d7-98ac-47f5-a46d-0ec4474ed449" />
 
 # MODEL GRAPH:
-# NON-INVERTING AMPLIFIER
+
 <img width="421" height="217" alt="image" src="https://github.com/user-attachments/assets/acb72459-bb16-44df-9cb8-b8bbfb5213fe" />
 
 # CIRCUIT DIAGRAM: DIFFERENTIAL AMPLIFIER
