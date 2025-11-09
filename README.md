@@ -38,7 +38,7 @@ AV=Vd/V2-V1=-Rf/Ri
 <img width="401" height="173" alt="image" src="https://github.com/user-attachments/assets/84328324-1ceb-4c3c-98af-eb5f5e1b7829" />
 
 # CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
-<img width="944" height="253" alt="image" src="https://github.com/user-attachments/assets/66a0de5c-4223-47c2-a3a0-f955c9624f96" />
+
 
 # MODEL GRAPH:
 <img width="450" height="228" alt="image" src="https://github.com/user-attachments/assets/235f4402-0bee-42b7-80de-38055bb37b2c" />
@@ -58,9 +58,27 @@ AV=Vd/V2-V1=-Rf/Ri
 <img width="658" height="213" alt="image" src="https://github.com/user-attachments/assets/a41aaf0b-11ac-4694-9366-34c0028075c3" />
 
 # DESIGN:
+![WhatsApp Image 2025-11-09 at 10 53 54_fe3a6489](https://github.com/user-attachments/assets/1b93924e-ec2b-4931-9f05-423d80a3316f)
 
 # TABULATION:
+# INVERTING AMPLIFIER:
+![WhatsApp Image 2025-11-09 at 10 47 32_69c9d5d7](https://github.com/user-attachments/assets/76e39da9-3bb9-427b-8d13-2e55ed936d09)
+
+# NON-INVERTING AMPLIFIER:
+![WhatsApp Image 2025-11-09 at 10 48 35_63628768](https://github.com/user-attachments/assets/3c6feada-b932-4c9a-b2dd-e39f361188f7)
+
+# DIFFERENTIAL AMPLIFIER:
+![WhatsApp Image 2025-11-09 at 10 49 11_5783c2bc](https://github.com/user-attachments/assets/e6248bc7-6623-48a0-b70e-087d50f519ab)
 
 # THEORETICAL CALCULATION:
+![WhatsApp Image 2025-11-09 at 10 55 03_527ef72b](https://github.com/user-attachments/assets/def45e22-a55d-49aa-adef-0d6f196ce2b6)
+
+![WhatsApp Image 2025-11-09 at 10 55 48_c2986011](https://github.com/user-attachments/assets/d1f5b6d4-301f-4459-aeb1-c0bef4505665)
+
+# GRAPH:
+![WhatsApp Image 2025-11-09 at 10 52 25_0fb6df93](https://github.com/user-attachments/assets/5eae376c-41ce-4f64-b486-73c9f5909d90)
+
+![WhatsApp Image 2025-11-09 at 10 53 04_e4ceedf0](https://github.com/user-attachments/assets/ab8ea518-ee4d-4ab3-b2ee-bd390e6fe1ec)
 
 # RESULT:
+Thus the Inverting, Non-Inverting and Differential amplifier are designed and their performance was successfully tested using OP-amp $\mu$ A 741
