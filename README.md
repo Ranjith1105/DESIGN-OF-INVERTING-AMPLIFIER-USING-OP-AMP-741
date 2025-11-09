@@ -39,6 +39,7 @@ AV=Vd/V2-V1=-Rf/Ri
 
 # CIRCUIT DIAGRAM: INVERTING AMPLIFIER:
 
+<img width="597" height="277" alt="image" src="https://github.com/user-attachments/assets/fb62840f-8d7b-44cb-92a4-b4ba7eb0b51e" />
 
 # MODEL GRAPH:
 <img width="450" height="228" alt="image" src="https://github.com/user-attachments/assets/235f4402-0bee-42b7-80de-38055bb37b2c" />
